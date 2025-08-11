@@ -1,0 +1,35 @@
+.body {
+    background-color: rgb(224, 214, 200);
+    font-family: cursive; 
+}
+
+.fondo {
+    background-image: url(fondo-inicio.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+}
+
+.titulo {
+    padding-left: 40px;
+    color: white;
+}
+
+.foto-perfil {
+  width: auto;
+  height: 200px;
+  object-fit: cover;
+  padding: 50px;
+  border-radius: 25%;
+}
+
+.foto-inicio {
+    height: 400px;
+}
+
+.info {
+    padding-right: 100px;
+    padding-left: 40px;
+}
+
